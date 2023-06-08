@@ -1,2 +1,2 @@
 #!/bin/bash
-file="hello" new_owner="betty"
+file=hello new_owner=betty
